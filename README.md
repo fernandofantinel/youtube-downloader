@@ -1,4 +1,4 @@
-#YouTube Downloader
+# YouTube Downloader
 
 Inspired by Tiff in Tech [Youtube video](https://www.youtube.com/watch?v=EMlM6QTzJo0).
 The project was created just to practice some Python coding.
